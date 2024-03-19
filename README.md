@@ -4,7 +4,9 @@
 - #### 👨🏻‍🎓 Software Engineering student (5/8)
 
   ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
+![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLigeskee&layout=compact&theme=merko)
 
   ##
 ### Tecnologys that i most use:
