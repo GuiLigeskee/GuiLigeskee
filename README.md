@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme Ligeski Saldanha
 
-- #### Web freelancer
-- #### Software Engineering student
+- #### Freelance web developer
+- #### Software Engineering student (5/8)
 
   ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
