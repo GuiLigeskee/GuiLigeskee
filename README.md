@@ -1,7 +1,7 @@
-### 👋 Hey there! I'm Guilherme Ligeski Saldanha
+# 👋 Hey there! I'm Guilherme Ligeski Saldanha
 
-- #### 👨🏻‍💻 Freelance web developer
-- #### 👨🏻‍🎓 Software Engineering student (5/8)
+#### 👨🏻‍💻 Freelance web developer
+#### 👨🏻‍🎓 Software Engineering student (5/8)
 
   ##
 ![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
@@ -18,7 +18,7 @@
   <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Guiligeskee-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guiligeskee-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guiligeskee-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Guiligeskee-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 <picture>
