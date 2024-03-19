@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
 
   ##
-
+### Tecnologys that i most use:
 <div style="display: inline_block"><br>
   <img align="center" alt="Guiligeskee-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">        
   <img align="center" alt="Guiligeskee-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
