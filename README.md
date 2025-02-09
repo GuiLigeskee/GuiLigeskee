@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Guilherme Ligeski Saldanha
 
-#### 👨🏻‍💻 Freelance web developer
+#### 👨🏻‍💻 Dev fullstack
 #### 👨🏻‍🎓 Software Engineering student (6/8)
 
   ##
