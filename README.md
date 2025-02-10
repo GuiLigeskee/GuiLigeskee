@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Guilherme Ligeski Saldanha
 
 #### 👨🏻‍💻 Dev fullstack
-#### 👨🏻‍🎓 Software Engineering student (6/8)
+#### 👨🏻‍🎓 Software Engineering student (7/8)
 
   ##
 ![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
