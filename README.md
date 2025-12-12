@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Guilherme Ligeski Saldanha
 
 #### 👨🏻‍💻 Dev fullstack
-#### 👨🏻‍🎓 graduate in software engineering
+#### 👨🏻‍🎓 Graduate in software engineering
 
   ##
 ![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
@@ -13,14 +13,18 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Guiligeskee-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guiligeskee-TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Guiligeskee-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Guiligeskee-Redux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-  <img align="center" alt="Guiligeskee-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Guiligeskee-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guiligeskee-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guiligeskee-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Guiligeskee-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="Guiligeskee-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+
 </div>
 
 <picture>
