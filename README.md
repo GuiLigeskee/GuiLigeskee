@@ -1,7 +1,6 @@
-# 👋 Hey there! I'm Guilherme Ligeski Saldanha
+# Guilherme Ligeski Saldanha
 
-#### 👨🏻‍💻 Dev fullstack
-#### 👨🏻‍🎓 Graduate in software engineering
+#### 👨🏻‍💻 Software Engineer
 
   ##
 ![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
