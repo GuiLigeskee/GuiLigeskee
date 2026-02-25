@@ -2,12 +2,7 @@
 
 #### 👨🏻‍💻 Software Engineer
 #### 🐱‍💻 Dev Full Stack
-
-  ##
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-
-  ##
+---
 ### Hard Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Guiligeskee-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
