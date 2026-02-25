@@ -1,6 +1,7 @@
 # Guilherme Ligeski Saldanha
 
 #### 👨🏻‍💻 Software Engineer
+#### 🐱‍💻 Dev Full Stack
 
   ##
 ![GuiLigeskee GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&theme=merko)
