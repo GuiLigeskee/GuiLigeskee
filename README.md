@@ -1,6 +1,6 @@
 # Guilherme Ligeski Saldanha
 
-#### 👨🏻‍💻 Full Stack Django Developer at **Brightlux**
+#### 👨🏻‍💻 Full Stack Developer at **Brightlux**
 #### 🚀 Software Engineer 
 ---
 
