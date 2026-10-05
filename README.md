@@ -1,70 +1,54 @@
-# Hi, I'm Guilherme Ligeski Saldanha! 👋
+# Guilherme Ligeski Saldanha
 
-#### 👨🏻‍💻 Full Stack Developer at **Brightlux** | 🚀 Software Engineer
+Full-stack developer at **Brightlux Advanced Lighting**, based in Curitiba, Brazil (UTC−3). I build web applications with Python, Django, and Node on the backend and React on the front.
 
-I build scalable applications, automate workflows, and design robust cloud infrastructures to solve complex business challenges.
+**Open to remote and international opportunities.** Looking for mid-level full-stack or backend-leaning roles.
 
-### 👨‍💻 Professional Summary
-- 🎓 **Software Engineer** specializing in full-cycle development, from systems architecture to deployment.
-- 💼 Currently delivering end-to-end solutions and driving application efficiency as a Full Stack Developer at **Brightlux**.
-- 🚀 **Impact-Driven:** Passionate about reducing operational friction through workflow automation (n8n) and building resilient, high-availability APIs.
-- ⚙️ **Cloud & DevOps:** Experienced in modernizing infrastructure using containerization (Docker) and deploying scalable services across **GCP** and **Azure**.
-- 🌱 **Continuous Growth:** Expanding my backend architecture expertise by exploring high-performance and strongly-typed ecosystems like **C#**, **.NET**, and **Rust**.
+- About three years in total: full-stack at Brightlux, full-stack and project coordinator at **Pew's Cavern**, and freelance web work.
+- Day to day: APIs, data models, React interfaces, n8n automations, and Docker.
+- Exploring C# / .NET and cloud on GCP and Azure.
 
----
+## Tech stack
 
-### 🛠 Tech Stack
+**Backend**
 
-**Frontend & Backend:**
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-<br>
+**Frontend**
 
-**Database, Cloud & Tools:**
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="GCP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Exploring**
 
-### 📊 GitHub Analytics
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+## Featured projects
+
+- **[CasaLuz](https://github.com/GuiLigeskee/CasaLuz)** — Real-estate site where visitors search listings and admins manage ads, testimonials, and access (React, Redux, Node.js, Express, MongoDB).
+- **[marketplace-django](https://github.com/GuiLigeskee/marketplace-django)** — Django shop that covers the path from product catalog to cart to order.
+- **[MademapeStore](https://github.com/GuiLigeskee/MademapeStore)** — Freelance storefront for Mademape, with a React UI and a Node.js API.
+- **[GreenSocial](https://github.com/GuiLigeskee/GreenSocial)** — Social app with a React client and an Express + MongoDB API.
+
+## GitHub
 
 <div align="center">
   <a href="https://github.com/GuiLigeskee">
-    <img src="https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GuiLigeskee&show_icons=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="GitHub stats for GuiLigeskee" />
   </a>
 </div>
 
-<br>
+## Connect
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiLigeskee/GuiLigeskee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiLigeskee/GuiLigeskee/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuiLigeskee/GuiLigeskee/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 📬 Let's Connect:
-
-<div> 
-  <a href="https://www.linkedin.com/in/guilherme-ligeski-saldanha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://instagram.com/guiligeski_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:guiligeskee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/guilherme-ligeski-saldanha/) · [guiligeskee@gmail.com](mailto:guiligeskee@gmail.com) · [Portfolio](https://guiligeskee.github.io/Portifolio-Guilherme-Ligeski-Saldanha/)
